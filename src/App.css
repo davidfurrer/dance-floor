@@ -17,9 +17,10 @@
 .gridContainer {
   width: 40vw;
   height: 40vw;
-  border: 1px solid black;
+  border: 10px solid black;
   background: black;
   display: flex;
   flex-wrap: wrap;
+  box-shadow: 2px 1px 155px 120px rgba(29, 25, 25, 0.97);
 }
 
