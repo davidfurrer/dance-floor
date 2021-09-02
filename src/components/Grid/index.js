@@ -29,7 +29,7 @@ class Grid extends Component {
 
   sdf = setInterval(() => {
     this.randomizeColors();
-  }, 300);
+  }, 900);
 
   render() {
     return (
