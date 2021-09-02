@@ -11,17 +11,15 @@
   height: 100px;
   background: grey;
   border: rgb(206, 152, 152) 1px solid;
+  box-sizing: border-box;
 }
 
 .gridContainer {
-  width: 505px;
-  height: 505px;
+  width: 500px;
+  height: 500px;
   border: 1px solid black;
   background: black;
   display: flex;
   flex-wrap: wrap;
 }
 
-* {
-  box-sizing: border-box;
-}
